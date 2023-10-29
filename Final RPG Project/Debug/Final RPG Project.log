@@ -1,0 +1,4 @@
+﻿  Project final.cpp
+C:\Users\Alex\Desktop\Final RPG Project\Project final.cpp(108,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\Alex\Desktop\Final RPG Project\Project final.cpp(60): warning C4715: 'MMO::MobRounds': not all control paths return a value
+  Final RPG Project.vcxproj -> C:\Users\Alex\Desktop\Final RPG Project\Debug\Final RPG Project.exe
